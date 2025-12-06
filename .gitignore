@@ -42,15 +42,3 @@ CMakeFiles/
 CMakeCache.txt
 cmake-build-*/
 build/
-
-# OS filer
-.DS_Store
-Thumbs.db
-
-/bin/
-/out/
-*.class
-.vscode/
-.idea/
-*.iml
-.DS_Store
