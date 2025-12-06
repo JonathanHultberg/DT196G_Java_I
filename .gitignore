@@ -42,3 +42,11 @@ CMakeFiles/
 CMakeCache.txt
 cmake-build-*/
 build/
+
+/bin/
+/out/
+*.class
+.vscode/
+.idea/
+*.iml
+.DS_Store
