@@ -1,0 +1,1 @@
+Kör: java -cp ".;java1.media.jar" MediaTest
